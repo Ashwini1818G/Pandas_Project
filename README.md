@@ -1,7 +1,5 @@
 # Pandas_Projects
-1. Data cleaning of cafe Sales dataset
-
-2. EDA on Global Superstore dataset using libraries like pandas, seaborn, matplotlib
+ EDA on Global Superstore dataset using libraries like pandas, seaborn, matplotlib
 ## Objectives:
 Analyze the Global Superstore dataset to uncover insights related to:
 Sales performance
